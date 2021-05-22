@@ -11,7 +11,7 @@
     "description": "The latest NASA &quot;Image of the Day&quot; image.",
     "image": "",
     "link": "http://www.nasa.gov",
-    "rss": "href=\"http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss"
+    "rss": "http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss"
   },
   {
     "title": "BuzzFeed - Latest",
