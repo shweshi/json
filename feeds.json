@@ -1,0 +1,16 @@
+[
+    {
+        "title": "BuzzFeed - Latest",
+        "description": "BuzzFeed has breaking news, vital journalism, quizzes, videos, celeb news, Tasty food videos, recipes, DIY hacks, and all the trending buzz you’ll want to share with your friends. Copyright BuzzFeed, Inc. All rights reserved.",
+        "image": "https://webappstatic.buzzfeed.com/static/images/public/rss/logo.png",
+        "link": "https://www.buzzfeed.com/index"
+        "rss": "https://www.hongkiat.com"
+    },
+    {
+        "title": "NYT > Technology > Personal Tech",
+        "description": "Personal tech",
+        "image": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png",
+        "link": "https://www.nytimes.com/section/technology/personaltech"
+        "rss": "https://www.hongkiat.com"
+    }
+]
