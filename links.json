@@ -1,0 +1,26 @@
+[
+  {
+    "title": "The Scale Cube",
+    "description": "The Scale Cube",
+    "image": "https://microservices.io/articles/scalecube.html",
+    "link": "https://microservices.io/articles/scalecube.html"
+  },
+  {
+    "title": "Best Practices for Building a Microservice Architecture",
+    "description": "A curated a set of pragmatic practices for building a microservice architecture that fits well with modern web and cloud technologies.",
+    "image": "https://lh3.googleusercontent.com/Dw4UsF3rRH-2FI_In5MrAKO244kQLYU7Ynv0CiQ1ezx5M9Kdn5Y2ySLYu2bVBIxtv_E5mc1W_HklTKB-Mga3i3_-f8U90A",
+    "link": "https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api"
+  },
+  {
+    "title": "How to Draw Useful Technical Architecture Diagrams",
+    "description": "Samples of five technical architecture diagrams with guidelines to facilitate digital solution design and implementation",
+    "image": "https://miro.medium.com/max/1200/0*nWGoaJqJoeOnF5J0",
+    "link": "https://medium.com/the-internal-startup/how-to-draw-useful-technical-architecture-diagrams-2d20c9fda90d"
+  },
+  {
+    "title": "awslabs/git-secrets",
+    "description": "Prevents you from committing secrets and credentials into git repositories - awslabs/git-secrets",
+    "image": "https://opengraph.githubassets.com/d4b782df038d7728ee9a1ba939d120a3b286a903784007d187b4b1d876509652/awslabs/git-secrets",
+    "link": "https://github.com/awslabs/git-secrets"
+  }
+]
