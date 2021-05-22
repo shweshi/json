@@ -1,7 +1,7 @@
 [
   {
     "title": "NYT > Top Stories",
-    "description": "NYT > Top Stories RSS Feeds",
+    "description": "NYT > Top Stories RSS Feeds, World News",
     "image": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png",
     "link": "https://www.nytimes.com",
     "rss": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
